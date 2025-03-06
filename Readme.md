@@ -67,7 +67,20 @@ Containers make applications portable, and orchestration tools manage them at sc
 
 ---
 
-# 🏗️ Stage 5: Infrastructure as Code (IaC)
+# ☁️ Stage 5: Cloud Computing
+### **Why?**
+Most DevOps operations happen in the cloud. Understanding AWS, Azure, or GCP is essential.
+
+### **What will you learn?**
+- AWS basics (EC2, S3, IAM, networking)
+- Managing cloud infrastructure
+
+### **Resources:**
+- [AWS](https://youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf&si=uNozaR2q_9ZDOzPc)
+
+---
+
+# 🏗️ Stage 6: Infrastructure as Code (IaC)
 ### **Why?**
 Automating infrastructure setup ensures consistency and scalability.
 
@@ -79,34 +92,21 @@ Automating infrastructure setup ensures consistency and scalability.
 
 ### **Resources:**
 - [Terraform](https://youtube.com/playlist?list=PLQ5OGqigB8Vnymd6CwskXgHFa-Ft_8Qm-&si=gQx-UiyLZZNBhnkO)
+
+---
+
+# ⚡ Stage 7: Configuration Management with Ansible
+### **Why?**
+Ansible automates configuration management, ensuring consistency across servers without manual intervention.
+
+### **What will you learn?**
+- Installing and setting up Ansible
+- Writing Ansible playbooks
+- Using modules, variables, and roles
+- Automating server provisioning and configuration
+
+### **Resources:**
 - [Ansible](https://www.youtube.com/watch?v=C_afmB_oDVs&list=PLOeEp3fYj7rojjhsYYgtM_iOOaPnigrmT&index=3)
-
----
-
-# 🚀 Stage 6: Continuous Integration & Delivery (CI/CD)
-### **Why?**
-CI/CD automates software deployment, reducing errors and speeding up releases.
-
-### **What will you learn?**
-- CI/CD concepts
-- Setting up pipelines with Jenkins
-- Automating builds, testing, and deployments
-
-### **Resources:**
-- [Jenkins](https://youtube.com/playlist?list=PLQ5OGqigB8Vk4A8xEDJCU-HN_7XizU9FO&si=QCCQHkvRDBcV9wEz)
-
----
-
-# ☁️ Stage 7: Cloud Computing
-### **Why?**
-Most DevOps operations happen in the cloud. Understanding AWS, Azure, or GCP is essential.
-
-### **What will you learn?**
-- AWS basics (EC2, S3, IAM, networking)
-- Managing cloud infrastructure
-
-### **Resources:**
-- [AWS](https://youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf&si=uNozaR2q_9ZDOzPc)
 
 ---
 
@@ -125,6 +125,20 @@ Monitoring helps track application performance and detect issues early.
 
 ---
 
+# 🚀 Stage 9: Continuous Integration & Delivery (CI/CD)
+### **Why?**
+CI/CD automates software deployment, reducing errors and speeding up releases.
+
+### **What will you learn?**
+- CI/CD concepts
+- Setting up pipelines with Jenkins
+- Automating builds, testing, and deployments
+
+### **Resources:**
+- [Jenkins](https://youtube.com/playlist?list=PLQ5OGqigB8Vk4A8xEDJCU-HN_7XizU9FO&si=QCCQHkvRDBcV9wEz)
+
+---
+
 # 🎯 Final Projects
 ## **Project 1: Build a CI/CD Pipeline**
 - Use Git, Jenkins, Docker, and Kubernetes to create a fully automated CI/CD pipeline.
@@ -135,4 +149,4 @@ Monitoring helps track application performance and detect issues early.
 ---
 
 # 🎉 Conclusion
-Following this roadmap will help you become a DevOps Engineer. Keep learning and practicing!
+Following this roadmap will help you to be on the right road of becoming a DevOps Engineer.
